@@ -1,3 +1,4 @@
+Aug 31, 2022
 # Quan Dinh's first CS 193 homework
 
 Things I love about CS 193:
